@@ -1,0 +1,18 @@
+﻿ID,Origin Country,Origin City,Origin postal,Destination country   ,Destination City,Destination Postal
+1,IT,ROMA,00100,ES,BARCELONA,08001
+2,FR,Paris,75005,ES,Zaragoza,50001
+3,FR,Brest,29200,ES,BARCELONA,08001
+4,NL,Rotterdam,3045,AT,Innsbruck,6020
+5,NL,Rotterdam,3045,DE,Düsseldorf,40210
+6,NL,Rotterdam,3045,BE,Gent,9040
+7,FI,Helsinki,00100,FI,Jyväskylä,40100
+8,IT,ROMA,00100,ES,Zaragoza,50001
+9,IT,ROMA,00100,DE,Düsseldorf,40210
+10,IT,ROMA,00100,BE,Gent,9040
+11,IT,ROMA,00100,CZ,PRAHA,118 00
+12,AT,Innsbruck,6020,CZ,PRAHA,118 00
+13,PL,Poznań,60-119,CZ,PRAHA,118 00
+14,GB,Bristol,bs1 1ee,GB,Bath,BA1 0FA
+15,GB,Bristol,bs1 1ee,GB,Cambridge,CB1 0BD
+16,GB,Bristol,bs1 1ee,GB,York,yo1  0EB
+17,IT,ROMA,00100,ES,BARCELONA,08001
